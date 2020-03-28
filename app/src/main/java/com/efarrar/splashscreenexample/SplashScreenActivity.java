@@ -1,5 +1,10 @@
 package com.efarrar.splashscreenexample;
 
+/**
+ * URL 1: https://github.com/pantrif/EasySplashScreen
+ * URL 2: https://codinginflow.com/tutorials/android/easy-splash-screen
+ */
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.graphics.Color;
